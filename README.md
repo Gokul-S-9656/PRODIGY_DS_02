@@ -53,8 +53,11 @@ The following analyses were performed:
 
 ---
 
-## 📷 Visualizations
-All visualizations are available in the `outputs` folder.
+## 📊 Sample Visualizations
+
+![Gender Survival](outputs/gender_survival.png)
+![Class Survival](outputs/class_survival.png)
+![Age Distribution](outputs/age_distribution.png)
 
 ---
 
@@ -90,6 +93,12 @@ PRODIGY_DS_02/
 │
 
 └── README.md
+
+---
+
+## ✅ Conclusion
+
+EDA revealed that gender and passenger class significantly influenced survival rates. This analysis demonstrates how data can uncover meaningful patterns and support decision-making.
 
 ---
 
